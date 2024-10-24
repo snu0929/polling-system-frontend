@@ -60,7 +60,22 @@ The application uses styled-components for component-level styling. This allows 
 The application uses React hooks (useState, useEffect) to manage state across the application. Polls, votes, and comments are fetched from the backend API and updated in real-time using WebSocket events.
 
 ## 7. Build for Production
-To build the app for production, run the appropriate build command to bundle the React application into static files for deployment.
+To build the app for production, run the vercel --prod build command to bundle the React application into static files for deployment.
+
+## deployed Link 
+https://polling-system-g9a58cgkj-snu0929s-projects.vercel.app/
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/4475bb42-5344-496d-9401-cc61b2df3c87) ![image](https://github.com/user-attachments/assets/ff45a7c1-3c5b-4557-b4d3-f8ec9ca4c01c)
+![image](https://github.com/user-attachments/assets/d5ea7037-cec9-4013-867d-8b6c0d22ba34) ![image](https://github.com/user-attachments/assets/40433b64-1731-4d54-8e4d-e673acc34f5e)
+![image](https://github.com/user-attachments/assets/a3510067-e5d7-4199-91ce-2bcf016c2dbc) ![image](https://github.com/user-attachments/assets/55d12b6e-2d83-479b-b20e-4537c708b9d2)
+
+
+
+
+
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
